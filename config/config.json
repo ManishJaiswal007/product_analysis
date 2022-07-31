@@ -1,0 +1,4 @@
+{
+    "time_window": "1 day",
+    "agg_col": "response_size"
+}
